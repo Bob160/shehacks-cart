@@ -1,0 +1,36 @@
+.eagon {
+  color: rebeccapurple;
+  border-style: dotted;
+  border-width: 5px;
+  text-align: center;
+}
+.tired {
+  margin-top: 100px;
+  padding-top: 50px;
+}
+.olodo {
+  height: 200px;
+  width: 50%;
+  background-color: salmon;
+}
+ul.tolotolo {
+  list-style-type: square;
+}
+.udari {
+  color: sienna; 
+}
+
+table,
+th,
+td {
+  border: 1px solid yellowgreen;
+}
+table {
+  width: 100%;
+}
+.one {
+  background-color: blue;
+}
+table.hover {
+  color: turquoise;
+}

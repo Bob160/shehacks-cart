@@ -1,0 +1,62 @@
+nav {
+  width: auto;
+  height: 50px;
+  background-color: purple;
+}
+hr {
+  width: 60%;
+  margin-left: 2px;
+}
+.icon {
+  height: 100px;
+  padding-left: 25%;
+}
+.col-md-2 {
+  background-color: purple;
+  height: 900px;
+}
+.col-md-10 {
+  margin-top: -68%;
+  margin-left: 20%;
+}
+h1 {
+  line-height: 40px;
+  color: whitesmoke;
+}
+.cohort {
+  width: 50%;
+  height: 50%;
+  margin: 3.5rem auto 0 auto;
+  border-style: unset;
+  border-color: white;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-weight: bolder;
+  color: rgb(87, 67, 87);
+}
+h1 {
+  text-align: center;
+}
+.item {
+  margin-top: 1rem;
+}
+.price {
+  margin-left: 0rem;
+  margin-top: 1rem;
+}
+.add {
+  margin-left: 12.5rem;
+  background-color: plum;
+  font-weight: normal;
+}
+.add:hover {
+  background-color: palevioletred;
+}
+.qty {
+  display: flexbox;
+  margin-left: 12rem;
+  margin-top: -2rem;
+}
+
+.tity {
+  width: 22px;
+}
